@@ -1,1 +1,3 @@
 # git-exercise
+
+TRYING OUT THE GIT EXERCISE
